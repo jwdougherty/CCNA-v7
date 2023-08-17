@@ -32,24 +32,24 @@ Note: It is not important that you understand everything you see and do in this 
 
 ## Step 1: Identify common components of a network as represented in Packet Tracer.
 
-     -   a. The icon toolbar at the bottom left hand corner has various categories of networking components. You should see categories that correspond to intermediary devices, end devices, and media. The Connections category (with the lightning bolt icon) represents the networking media supported by Packet Tracer. There is also an End Devices category and two categories specific to Packet Tracer: Custom Made Devices and Multiuser Connection.
-      -  b. List the intermediary device categories.
+-   a. The icon toolbar at the bottom left hand corner has various categories of networking components. You should see categories that correspond to intermediary devices, end devices, and media. The Connections category (with the lightning bolt icon) represents the networking media supported by Packet Tracer. There is also an End Devices category and two categories specific to Packet Tracer: Custom Made Devices and Multiuser Connection.
+-  b. List the intermediary device categories.
 
             Routers, Switches, Hubs, Wireless Devices, and WAN Emulation
 
-      -  c. Without entering into the Internet cloud or Intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
+-  c. Without entering into the Internet cloud or Intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
 
             15
 
-      -  d. Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple connections leading to them)?
+-  d. Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple connections leading to them)?
 
             11
 
-      -  e. How many end devices are not desktop computers?
+-  e. How many end devices are not desktop computers?
 
             8
 
-      -  f. How many different types of media connections are used in this network topology?
+-  f. How many different types of media connections are used in this network topology?
 
             4
 
