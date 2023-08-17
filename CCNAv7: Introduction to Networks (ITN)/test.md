@@ -6,7 +6,7 @@ Tweet
 Share
 Pin it
 1.5.5 Packet Tracer – Network Representation (Instructor Version – Optional Packet Tracer)
-1.5.7 Packet Tracer – Network Representation
+# 1.5.7 Packet Tracer – Network Representation
 
 Instructor Note: Red font color or green highlights indicate text that appears in the instructor copy only.
 
@@ -23,39 +23,41 @@ All clients have full connectivity to the servers. For the sake of frame diversi
 Topology
 1.5.7 Packet Tracer - Network Representation
 
-1.5.7 Packet Tracer – Network Representation
+# 1.5.7 Packet Tracer – Network Representation
 Objectives
 
 The network model in this activity incorporates many of the technologies that you will master in your CCNA studies. It represents a simplified version of how a small to medium-sized business network might look. Feel free to explore the network on your own. When you are ready, proceed through the following steps and answer the questions.
 
 Note: It is not important that you understand everything you see and do in this activity. Feel free to explore the network on your own. If you wish to proceed more systematically, follow the steps below. Answer the questions to the best of your ability.
-Step 1: Identify common components of a network as represented in Packet Tracer.
 
-        a. The icon toolbar at the bottom left hand corner has various categories of networking components. You should see categories that correspond to intermediary devices, end devices, and media. The Connections category (with the lightning bolt icon) represents the networking media supported by Packet Tracer. There is also an End Devices category and two categories specific to Packet Tracer: Custom Made Devices and Multiuser Connection.
-        b. List the intermediary device categories.
+## Step 1: Identify common components of a network as represented in Packet Tracer.
 
-Routers, Switches, Hubs, Wireless Devices, and WAN Emulation
+     -   a. The icon toolbar at the bottom left hand corner has various categories of networking components. You should see categories that correspond to intermediary devices, end devices, and media. The Connections category (with the lightning bolt icon) represents the networking media supported by Packet Tracer. There is also an End Devices category and two categories specific to Packet Tracer: Custom Made Devices and Multiuser Connection.
+      -  b. List the intermediary device categories.
 
-        c. Without entering into the Internet cloud or Intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
+            Routers, Switches, Hubs, Wireless Devices, and WAN Emulation
 
-15
+      -  c. Without entering into the Internet cloud or Intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
 
-        d. Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple connections leading to them)?
+            15
 
-11
+      -  d. Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple connections leading to them)?
 
-        e. How many end devices are not desktop computers?
+            11
 
-8
+      -  e. How many end devices are not desktop computers?
 
-        f. How many different types of media connections are used in this network topology?
+            8
 
-4
-Step 2: Explain the purpose of the devices.
+      -  f. How many different types of media connections are used in this network topology?
+
+            4
+
+## Step 2: Explain the purpose of the devices.
 
     a. In Packet Tracer, only the Server-PT device can act as a server. Desktop or Laptop PCs cannot act as a server. Based on your studies so far, explain the client-server model.
 
-    In modern networks, a host can act as a client, a server, or both. Software installed on the host determines the role it plays on the network. Servers are hosts that have software installed that enables them to provide information and services, like email or web pages, to other hosts on the network. Clients are hosts that have software installed that enables them to request and display the information obtained from the server. A client could also be configured as a server simply by installing server software.
+>    In modern networks, a host can act as a client, a server, or both. Software installed on the host determines the role it plays on the network. Servers are hosts that have software installed that enables them to provide information and services, like email or web pages, to other hosts on the network. Clients are hosts that have software installed that enables them to request and display the information obtained from the server. A client could also be configured as a server simply by installing server software.
     b. List at least two functions of intermediary devices.
 
     Regenerate and retransmit data signals; maintain information about what pathways exist through the network and internetwork; notify other devices of errors and communication failures; Direct data along alternate pathways when there is a link failure; Classify and direct messages according to QoS priorities; Permit or deny the flow of data, based on security settings.
